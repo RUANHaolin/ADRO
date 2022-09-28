@@ -26,7 +26,7 @@ This repository includes
 Instance data files are located in the folder [data](data). 
 
 ### Data format
-The folder [formats](formats) contains a .md file [formats.md](formats/formats.md) that describes the format of the instance data files of the Multi-Item Newsvendor Problem and the Hospital Quota Allocation Problem.
+The folder [formats](formats) contains a [formats.md](formats/formats.md) file that describes the format of the instance data files of the Multi-Item Newsvendor Problem and the Hospital Quota Allocation Problem.
 
 
 ### Results
