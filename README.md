@@ -11,3 +11,6 @@ This repository contains supporting material for the paper [Adjustable Distribut
 To cite this data, please cite the [research article](DOI-type website TO BE INPUT) and the data itself, using the following DOI.
 
 XXXXX (DOI-type website TO BE INPUT)
+
+
+$\mathcal{K}$
