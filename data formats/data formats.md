@@ -21,7 +21,7 @@ who start hospitalization on day $k$ and staying for at least $l$ days.
 1. $\xi_{k,l}, k \in \mathcal{T}^-, l\in[L]$: the
 number of EMIs who stay for at least $l$ days starting from day $k$.
 
-The files "EAIs.xlsx" and "EMIs.xlsx" in "ADRO/data/Hospital" store the 50 instances of $z_{k,l}$ and $\xi_{k,l}, k \in \mathcal{T}^-, l\in[L]$, respectively. An instance is stored in the format of a $13\times 16$ table, where the first column is the index of day when the patients start hospitalization, the second column is the day of week (e.g., 3 for Wednesday, 7 for Sunday) of this day. The data at the $t$-th column $(t = 3,4,\cdots,16)$ indicate the number of patients that will stay at least $17-t$ days. For example, in the sheet "Instance1" of the "EAIs.xlsx" file, the number at the $2$-nd row, $4$-th column means that in our first random instance, the number of EAIs that starts hospitalization on day $-12$ and will stay at least 13 days is 23.75. 
+The files "EAIs.xlsx" and "EMIs.xlsx" in "ADRO/data/Hospital" store the 50 instances of $z_{k,l}$ and $\xi_{k,l}, k \in \mathcal{T}^-, l\in[L]$, respectively. An instance is stored in the format of a $13\times 16$ table, where the first column is the index of day when the patients start hospitalization, the second column is the day of week (e.g., 3 for Wednesday, 7 for Sunday) of this day. The data at the $t$-th column $(t = 3,4,\cdots,16)$ indicate the number of patients that will stay at least $17-t$ days. For example, in the sheet "Instance3" of the "EAIs.xlsx" file, the number at the $2$-nd row, $4$-th column means that in our $3$-rd random instance, the number of EAIs that starts hospitalization on day $-12$ and will stay at least 13 days is 23.29. 
 
 
 
