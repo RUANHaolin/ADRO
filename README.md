@@ -13,4 +13,19 @@ To cite this data, please cite the [research article](DOI-type website TO BE INP
 XXXXX (DOI-type website TO BE INPUT)
 
 
-$\mathcal{K}$
+## Content
+
+This repository includes
+
+1. Instance data for the Multi-Item Newsvendor Problem and the Hospital Quota Allocation Problem.
+1. Files containing sample results for the Multi-Item Newsvendor Problem, the Hospital Quota Allocation Problem and the Multi-Stage Inventory Control Problem.
+1. Files describing the data format and results.
+
+### Data files
+
+Instance data files are located in the folder [data](data). 
+
+### Data format
+The folder [data formats](data formats) contains a .md file [newsvendor.md](data formats/newsvendor.md) that describes the format of the instance data files of the Multi-Item Newsvendor Problem, and a .md file [hospital.md](data formats/hospital.md) for the Hospital Quota Allocation Problem.
+
+
