@@ -19,14 +19,14 @@ This repository includes
 
 1. Instance data for the Multi-Item Newsvendor Problem and the Hospital Quota Allocation Problem.
 1. Files containing sample results for the Multi-Item Newsvendor Problem, the Hospital Quota Allocation Problem and the Multi-Stage Inventory Control Problem.
-1. Files describing the data format and results.
+1. Files describing the data formats and results.
 
 ### Data files
 
 Instance data files are located in the folder [data](data). 
 
-### Data format
-The folder [formats](formats) contains a [formats.md](formats/formats.md) file that describes the format of the instance data files of the Multi-Item Newsvendor Problem and the Hospital Quota Allocation Problem.
+### Data formats
+The folder [formats](formats) contains a [formats.md](formats/formats.md) file that describes the formats of the instance data files of the Multi-Item Newsvendor Problem and the Hospital Quota Allocation Problem.
 
 
 ### Results

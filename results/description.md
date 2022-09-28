@@ -20,7 +20,7 @@
 
 ### "Figure 1\_left panel.eps" and "Figure 1\_right panel.eps"
 
-The average bed shortages of different models over $50$ random instances and $10000$ testing samples: sum of weekly maximal bed shortages ("Figure 1_left panel.eps") and all-day maximal bed shortages ("Figure 1\_right panel.eps").
+The two figures show the average bed shortages of different models over $50$ random instances and $10000$ testing samples: sum of weekly maximal bed shortages ("Figure 1_left panel.eps") and all-day maximal bed shortages ("Figure 1\_right panel.eps").
 
 
 ## Multi-Stage Inventory Control Problem
