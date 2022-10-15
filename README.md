@@ -30,7 +30,7 @@ The folder [formats](formats) contains a [formats.md](formats/formats.md) file t
 
 
 ### Results
-The folder [results](results) contains the results of the experiments, as well as a [description.md](results/description.md) file that describes the results.
+The folder [results](results) contains the results of the experiments, as well as a [README.md](results/README.md) file that describes the results.
 
 
 ## Data Formats
