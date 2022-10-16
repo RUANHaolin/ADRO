@@ -56,7 +56,7 @@ To generate a random instance in the Multi-Item Newsvendor Problem, it is suffic
 1. $\boldsymbol{\sigma}\in\mathbb{R}^{I}$: the standard deviation of the demand.
 1. $\boldsymbol{\Sigma}\in\mathbb{R}^{I\times I}$: the covariance matrix of the demand.
 
-The instances for different settings are organized in different locations, and the settings are indicated by the folder names along the path; for example, the folder with the path **ADRO/data/newsvendor/table1/11_items/delta025/v** contains the $100$ instances of $\boldsymbol{v}$ for the results in Table $1$ in the case of $I=11, \Delta=0.25$, and the one **ADRO/data/newsvendor/table2/07_items/comat** contains the $100$ instances of $\boldsymbol{\Sigma}$ for the results in Table $2$ in the case of $I=7$.
+The instances for different settings are organized in different locations, and the settings are indicated by the folder names along the path; for example, the folder with the path **ADRO/data/newsvendor/table1/11_items/delta025** contains the $100$ instances for the results in Table $1$ in the case of $I=11, \Delta=0.25$, and the one **ADRO/data/newsvendor/table2/07_items** contains the $100$ instances for the results in Table $2$ in the case of $I=7$.
 
 
 ### Hospital Quota Allocation Problem
