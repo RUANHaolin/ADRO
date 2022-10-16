@@ -21,7 +21,7 @@ Below is the BibTex for citing the data.
   title =       {Adjustable Distributionally Robust Optimization with Infinitely Constrained Ambiguity Sets},
   year =        {2022},
   doi =         {XX.XX/zenodo.XXXXXXX},
-  url =         {https://github.com/INFORMSJoC/202X.XXXX},
+  url =         {https://github.com/INFORMSJoC/2022.XXXX},
 }  
 ```
 
