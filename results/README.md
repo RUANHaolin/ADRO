@@ -1,38 +1,38 @@
 ## Multi-Item Newsvendor Problem
 
-### Table 1.xlsx
+### table_1
 
-**Table 1.xlsx** records the average and median (in brackets) relative gaps (%) to the exact objective value among $100$ instances. "MM" denotes the marginal moment model solved by the initial iteration of GIP algorithm and "GIP" denotes implementing the GIP algorithm for at most $50$ iterations. 
+The files in the folder **table_1** record the average and median (in brackets) relative gaps (%) to the exact objective value among $100$ instances. "MM" denotes the marginal moment model solved by the initial iteration of GIP algorithm and "GIP" denotes implementing the GIP algorithm for at most $50$ iterations. 
 
 
-### Table 2.xlsx
+### table_2
 
-**Table 2.xlsx** records the average and median (in brackets) of computation times in seconds and relative gaps (%) to the exact objective values among $100$ random instances with continuous decisions (sheet "continuous decisions") and with discrete decisions (sheet "discrete decisions"). Here, "EXACT" further denotes the exact approach that solves problem (20) as a semidefinite program.
+The files in the folder  **table_2** record the average and median (in brackets) of computation times in seconds and relative gaps (%) to the exact objective values among $100$ random instances with continuous decisions (in **continuous_decisions.csv**) and with discrete decisions (in **discrete_decisions.csv**). Here, "EXACT" further denotes the exact approach that solves problem (20) as a semidefinite program.
 
 
 ## Hospital Quota Allocation Problem
 
 
-### Table 3.xlsx
+### table_3
 
-**Table 3.xlsx** records the sum of weekly maximal bed shortages (sheet "criterion 1") and all-day maximal bed shortage (sheet "criterion 2") (percentage of bed shortage decreases compared with iteration 0 in brackets) of the three models UQM, SOM and ADM.
+The files in the folder  **table_3** record the sum of weekly maximal bed shortages (in **criterion_1.csv**) and all-day maximal bed shortage (in **criterion_2.csv**) (percentage of bed shortage decreases compared with iteration 0 in brackets) of the three models UQM, SOM and ADM.
 
 
-### Figure 1\_left panel.eps and Figure 1\_right panel.eps
+### figure\_1\_left\_panel.eps and figure\_1\_right\_panel.eps
 
-The two figures show the average bed shortages of different models over $50$ random instances and $10000$ testing samples: sum of weekly maximal bed shortages (**Figure 1_left panel.eps**) and all-day maximal bed shortages (**Figure 1\_right panel.eps**).
+The two figures show the average bed shortages of different models over $50$ random instances and $10000$ testing samples: sum of weekly maximal bed shortages (in **figure\_1\_left\_panel.eps**) and all-day maximal bed shortages (in **figure\_1\_right\_panel.eps**).
 
 
 ## Multi-Stage Inventory Control Problem
 
-### Table 4.xlsx
+### table_4
 
-**Table 4.xlsx** records the performance of the ELDR approximation under different relaxed ambiguity sets: $T=5$ (sheet "T = 5"), $T=10$ (sheet "T = 10") and $T=20$ (sheet "T = 20"). Here, the symbol '-' denotes that the ${\rm GIP}$ model does not improve over the ${\rm PCM}$ model or the ${\rm GIP}^+$ model does not improve over the ${\rm GIP}$ model.
+The files in the folder  **table_4** record the performance of the ELDR approximation under different relaxed ambiguity sets: $T=5$ (in **T_5.csv**), $T=10$ (in **T_10.csv**) and $T=20$ (in **T_20.csv**). Here, the symbol '-' denotes that the ${\rm GIP}$ model does not improve over the ${\rm PCM}$ model or the ${\rm GIP}^+$ model does not improve over the ${\rm GIP}$ model.
 
 
-### Table 5.xlsx
+### table_5
 
-**Table 5.xlsx** records the computation times in seconds of the ${\rm GIP}$ model (sheet "GIP") and the ${\rm GIP}^+$ model (sheet "GIP+").
+The files in the folder  **table_5** record the computation times in seconds of the ${\rm GIP}$ model (in **GIP.csv**) and the ${\rm GIP}^+$ model (in **GIP+.csv**).
 
 
 
